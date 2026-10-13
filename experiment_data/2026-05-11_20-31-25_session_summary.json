@@ -1,0 +1,722 @@
+{
+  "1": {
+    "ball_1": {
+      "x": 904.9243775964156,
+      "y": 225.65000000000057,
+      "dx": 0.76,
+      "dy": 0.65,
+      "min_speed": 1.0,
+      "max_speed": null,
+      "radius": 60.0,
+      "default_color": [
+        255,
+        0,
+        0
+      ],
+      "base_color": [
+        255,
+        0,
+        0
+      ],
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "colorname": "RED",
+      "clicked_color": [
+        204,
+        0,
+        0
+      ],
+      "clicked": false,
+      "clicks": 0,
+      "valid_clicks": 0,
+      "score": 0,
+      "block_score_until_time": 0.0,
+      "block_score_until_clicks": 0,
+      "change_to_clicks": 1,
+      "change_to_delay": 0.0,
+      "change_from_clicks": 1,
+      "change_from_delay": 1.0,
+      "time_required": 0.0,
+      "clicks_required": 1,
+      "points_per_reinforcement": 1,
+      "zero_points_message": ""
+    },
+    "ball_2": {
+      "x": 1130.3600000000188,
+      "y": 291.1999999999989,
+      "dx": -0.58,
+      "dy": 0.82,
+      "min_speed": 1.0,
+      "max_speed": null,
+      "radius": 60.0,
+      "default_color": [
+        0,
+        0,
+        255
+      ],
+      "base_color": [
+        0,
+        0,
+        255
+      ],
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "colorname": "BLUE",
+      "clicked_color": [
+        0,
+        0,
+        204
+      ],
+      "clicked": false,
+      "clicks": 0,
+      "valid_clicks": 0,
+      "score": 0,
+      "block_score_until_time": 0.0,
+      "block_score_until_clicks": 0,
+      "change_to_clicks": 1,
+      "change_to_delay": 0.0,
+      "change_from_clicks": 1,
+      "change_from_delay": 1.0,
+      "time_required": 0.0,
+      "clicks_required": 1,
+      "points_per_reinforcement": 0,
+      "zero_points_message": ""
+    }
+  },
+  "2": {
+    "ball_1": {
+      "x": 422.4236903939983,
+      "y": 643.5123458813667,
+      "dx": 0.25,
+      "dy": 0.97,
+      "min_speed": 1.0,
+      "max_speed": null,
+      "radius": 60.0,
+      "default_color": [
+        255,
+        0,
+        0
+      ],
+      "base_color": [
+        255,
+        0,
+        0
+      ],
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "colorname": "RED",
+      "clicked_color": [
+        204,
+        0,
+        0
+      ],
+      "clicked": false,
+      "clicks": 0,
+      "valid_clicks": 0,
+      "score": 0,
+      "block_score_until_time": 0.0,
+      "block_score_until_clicks": 0,
+      "change_to_clicks": 1,
+      "change_to_delay": 0.0,
+      "change_from_clicks": 1,
+      "change_from_delay": 1.0,
+      "time_required": 0.0,
+      "clicks_required": 1,
+      "points_per_reinforcement": 1,
+      "zero_points_message": ""
+    },
+    "ball_2": {
+      "x": 905.8583953355771,
+      "y": 352.10000000000196,
+      "dx": -0.53,
+      "dy": 0.85,
+      "min_speed": 1.0,
+      "max_speed": null,
+      "radius": 60.0,
+      "default_color": [
+        0,
+        0,
+        255
+      ],
+      "base_color": [
+        0,
+        0,
+        255
+      ],
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "colorname": "BLUE",
+      "clicked_color": [
+        0,
+        0,
+        204
+      ],
+      "clicked": false,
+      "clicks": 0,
+      "valid_clicks": 0,
+      "score": 0,
+      "block_score_until_time": 0.0,
+      "block_score_until_clicks": 0,
+      "change_to_clicks": 1,
+      "change_to_delay": 0.0,
+      "change_from_clicks": 1,
+      "change_from_delay": 1.0,
+      "time_required": 0.0,
+      "clicks_required": 1,
+      "points_per_reinforcement": 0,
+      "zero_points_message": ""
+    }
+  },
+  "3": {
+    "ball_1": {
+      "x": 1191.349999999991,
+      "y": 385.8761376508901,
+      "dx": -0.45,
+      "dy": -0.89,
+      "min_speed": 1.0,
+      "max_speed": null,
+      "radius": 60.0,
+      "default_color": [
+        255,
+        0,
+        0
+      ],
+      "base_color": [
+        255,
+        0,
+        0
+      ],
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "colorname": "RED",
+      "clicked_color": [
+        204,
+        0,
+        0
+      ],
+      "clicked": false,
+      "clicks": 0,
+      "valid_clicks": 0,
+      "score": 0,
+      "block_score_until_time": 0.0,
+      "block_score_until_clicks": 0,
+      "change_to_clicks": 1,
+      "change_to_delay": 0.0,
+      "change_from_clicks": 1,
+      "change_from_delay": 1.0,
+      "time_required": 0.0,
+      "clicks_required": 1,
+      "points_per_reinforcement": 1,
+      "zero_points_message": ""
+    },
+    "ball_2": {
+      "x": 535.2855335875586,
+      "y": 350.00690016691874,
+      "dx": -0.0,
+      "dy": -1.0,
+      "min_speed": 1.0,
+      "max_speed": null,
+      "radius": 60.0,
+      "default_color": [
+        0,
+        0,
+        255
+      ],
+      "base_color": [
+        0,
+        0,
+        255
+      ],
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "colorname": "BLUE",
+      "clicked_color": [
+        0,
+        0,
+        204
+      ],
+      "clicked": false,
+      "clicks": 0,
+      "valid_clicks": 0,
+      "score": 0,
+      "block_score_until_time": 0.0,
+      "block_score_until_clicks": 0,
+      "change_to_clicks": 1,
+      "change_to_delay": 0.0,
+      "change_from_clicks": 1,
+      "change_from_delay": 1.0,
+      "time_required": 0.0,
+      "clicks_required": 1,
+      "points_per_reinforcement": 0,
+      "zero_points_message": ""
+    }
+  },
+  "4": {
+    "ball_1": {
+      "x": 196.52000000000055,
+      "y": 719.6500000000017,
+      "dx": 0.83,
+      "dy": -0.55,
+      "min_speed": 1.0,
+      "max_speed": null,
+      "radius": 60.0,
+      "default_color": [
+        255,
+        0,
+        0
+      ],
+      "base_color": [
+        255,
+        0,
+        0
+      ],
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "colorname": "RED",
+      "clicked_color": [
+        204,
+        0,
+        0
+      ],
+      "clicked": false,
+      "clicks": 0,
+      "valid_clicks": 0,
+      "score": 0,
+      "block_score_until_time": 4.727,
+      "block_score_until_clicks": 0,
+      "change_to_clicks": 1,
+      "change_to_delay": 0.0,
+      "change_from_clicks": 1,
+      "change_from_delay": 1.0,
+      "time_required": 0.0,
+      "clicks_required": 1,
+      "points_per_reinforcement": 1,
+      "zero_points_message": ""
+    },
+    "ball_2": {
+      "x": 542.4330280304191,
+      "y": 323.1699999999988,
+      "dx": 0.78,
+      "dy": 0.63,
+      "min_speed": 1.0,
+      "max_speed": null,
+      "radius": 60.0,
+      "default_color": [
+        0,
+        0,
+        255
+      ],
+      "base_color": [
+        0,
+        0,
+        255
+      ],
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "colorname": "BLUE",
+      "clicked_color": [
+        0,
+        0,
+        204
+      ],
+      "clicked": false,
+      "clicks": 7,
+      "valid_clicks": 0,
+      "score": 0,
+      "block_score_until_time": 4.727,
+      "block_score_until_clicks": 0,
+      "change_to_clicks": 1,
+      "change_to_delay": 0.0,
+      "change_from_clicks": 1,
+      "change_from_delay": 1.0,
+      "time_required": 0.0,
+      "clicks_required": 1,
+      "points_per_reinforcement": 0,
+      "zero_points_message": ""
+    }
+  },
+  "5": {
+    "ball_1": {
+      "x": 405.7599999999976,
+      "y": 641.23269083454,
+      "dx": 0.96,
+      "dy": -0.29,
+      "min_speed": 1.0,
+      "max_speed": null,
+      "radius": 60.0,
+      "default_color": [
+        255,
+        0,
+        0
+      ],
+      "base_color": [
+        255,
+        0,
+        0
+      ],
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "colorname": "RED",
+      "clicked_color": [
+        204,
+        0,
+        0
+      ],
+      "clicked": false,
+      "clicks": 10,
+      "valid_clicks": 0,
+      "score": 0,
+      "block_score_until_time": 4.449,
+      "block_score_until_clicks": 0,
+      "change_to_clicks": 1,
+      "change_to_delay": 0.0,
+      "change_from_clicks": 1,
+      "change_from_delay": 1.0,
+      "time_required": 0.0,
+      "clicks_required": 1,
+      "points_per_reinforcement": 0,
+      "zero_points_message": ""
+    },
+    "ball_2": {
+      "x": 1039.8913417756737,
+      "y": 687.4000935658033,
+      "dx": 0.98,
+      "dy": 0.22,
+      "min_speed": 1.0,
+      "max_speed": null,
+      "radius": 60.0,
+      "default_color": [
+        0,
+        0,
+        255
+      ],
+      "base_color": [
+        0,
+        0,
+        255
+      ],
+      "color": [
+        0,
+        0,
+        204
+      ],
+      "colorname": "BLUE",
+      "clicked_color": [
+        0,
+        0,
+        204
+      ],
+      "clicked": true,
+      "clicks": 6,
+      "valid_clicks": 6,
+      "score": 0,
+      "block_score_until_time": 4.449,
+      "block_score_until_clicks": 0,
+      "change_to_clicks": 1,
+      "change_to_delay": 0.0,
+      "change_from_clicks": 1,
+      "change_from_delay": 1.0,
+      "time_required": 0.0,
+      "clicks_required": -5,
+      "points_per_reinforcement": 0,
+      "zero_points_message": "+0"
+    }
+  },
+  "6": {
+    "ball_1": {
+      "x": 828.687004078266,
+      "y": 227.61812317325013,
+      "dx": -0.96,
+      "dy": -0.29,
+      "min_speed": 1.0,
+      "max_speed": null,
+      "radius": 60.0,
+      "default_color": [
+        255,
+        0,
+        0
+      ],
+      "base_color": [
+        255,
+        0,
+        0
+      ],
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "colorname": "RED",
+      "clicked_color": [
+        204,
+        0,
+        0
+      ],
+      "clicked": false,
+      "clicks": 0,
+      "valid_clicks": 0,
+      "score": 0,
+      "block_score_until_time": 0.0,
+      "block_score_until_clicks": 0,
+      "change_to_clicks": 1,
+      "change_to_delay": 0.0,
+      "change_from_clicks": 1,
+      "change_from_delay": 1.0,
+      "time_required": 0.0,
+      "clicks_required": 1,
+      "points_per_reinforcement": 1,
+      "zero_points_message": ""
+    },
+    "ball_2": {
+      "x": 198.28473325278844,
+      "y": 495.4250174273007,
+      "dx": -1.0,
+      "dy": 0.05,
+      "min_speed": 1.0,
+      "max_speed": null,
+      "radius": 60.0,
+      "default_color": [
+        0,
+        0,
+        255
+      ],
+      "base_color": [
+        0,
+        0,
+        255
+      ],
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "colorname": "BLUE",
+      "clicked_color": [
+        0,
+        0,
+        204
+      ],
+      "clicked": false,
+      "clicks": 0,
+      "valid_clicks": 0,
+      "score": 0,
+      "block_score_until_time": 0.0,
+      "block_score_until_clicks": 0,
+      "change_to_clicks": 1,
+      "change_to_delay": 0.0,
+      "change_from_clicks": 1,
+      "change_from_delay": 1.0,
+      "time_required": 0.0,
+      "clicks_required": 1,
+      "points_per_reinforcement": 0,
+      "zero_points_message": ""
+    }
+  },
+  "7": {
+    "ball_1": {
+      "x": 1280.0,
+      "y": 277.1068865702412,
+      "dx": -1.2096039343695408,
+      "dy": -0.280226530762854,
+      "min_speed": 1.0,
+      "max_speed": null,
+      "radius": 60.0,
+      "default_color": [
+        255,
+        0,
+        0
+      ],
+      "base_color": [
+        255,
+        0,
+        0
+      ],
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "colorname": "RED",
+      "clicked_color": [
+        204,
+        0,
+        0
+      ],
+      "clicked": false,
+      "clicks": 9,
+      "valid_clicks": 0,
+      "score": 0,
+      "block_score_until_time": 3.971,
+      "block_score_until_clicks": 0,
+      "change_to_clicks": 1,
+      "change_to_delay": 0.0,
+      "change_from_clicks": 1,
+      "change_from_delay": 1.0,
+      "time_required": 0.0,
+      "clicks_required": 1,
+      "points_per_reinforcement": 0,
+      "zero_points_message": ""
+    },
+    "ball_2": {
+      "x": 841.4011634664641,
+      "y": 484.4404988412873,
+      "dx": -0.6196039343695409,
+      "dy": 0.27022653076285397,
+      "min_speed": 1.0,
+      "max_speed": null,
+      "radius": 60.0,
+      "default_color": [
+        0,
+        0,
+        255
+      ],
+      "base_color": [
+        0,
+        0,
+        255
+      ],
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "colorname": "BLUE",
+      "clicked_color": [
+        0,
+        0,
+        204
+      ],
+      "clicked": false,
+      "clicks": 10,
+      "valid_clicks": 10,
+      "score": 0,
+      "block_score_until_time": 3.971,
+      "block_score_until_clicks": 0,
+      "change_to_clicks": 1,
+      "change_to_delay": 0.0,
+      "change_from_clicks": 1,
+      "change_from_delay": 1.0,
+      "time_required": 0.0,
+      "clicks_required": -9,
+      "points_per_reinforcement": 0,
+      "zero_points_message": "+0"
+    }
+  },
+  "8": {
+    "ball_1": {
+      "x": 191.83999999999932,
+      "y": 471.4018171312866,
+      "dx": 0.16,
+      "dy": 0.99,
+      "min_speed": 1.0,
+      "max_speed": null,
+      "radius": 60.0,
+      "default_color": [
+        255,
+        0,
+        0
+      ],
+      "base_color": [
+        255,
+        0,
+        0
+      ],
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "colorname": "RED",
+      "clicked_color": [
+        204,
+        0,
+        0
+      ],
+      "clicked": false,
+      "clicks": 3,
+      "valid_clicks": 0,
+      "score": 3,
+      "block_score_until_time": 1.73,
+      "block_score_until_clicks": 0,
+      "change_to_clicks": 1,
+      "change_to_delay": 0.0,
+      "change_from_clicks": 1,
+      "change_from_delay": 1.0,
+      "time_required": 0.0,
+      "clicks_required": 1,
+      "points_per_reinforcement": 1,
+      "zero_points_message": ""
+    },
+    "ball_2": {
+      "x": 622.464985466011,
+      "y": 372.26588935939355,
+      "dx": 0.73,
+      "dy": 0.68,
+      "min_speed": 1.0,
+      "max_speed": null,
+      "radius": 60.0,
+      "default_color": [
+        0,
+        0,
+        255
+      ],
+      "base_color": [
+        0,
+        0,
+        255
+      ],
+      "color": [
+        0,
+        0,
+        204
+      ],
+      "colorname": "BLUE",
+      "clicked_color": [
+        0,
+        0,
+        204
+      ],
+      "clicked": true,
+      "clicks": 16,
+      "valid_clicks": 16,
+      "score": 0,
+      "block_score_until_time": 1.73,
+      "block_score_until_clicks": 0,
+      "change_to_clicks": 1,
+      "change_to_delay": 0.0,
+      "change_from_clicks": 1,
+      "change_from_delay": 1.0,
+      "time_required": 0.0,
+      "clicks_required": -15,
+      "points_per_reinforcement": 0,
+      "zero_points_message": ""
+    }
+  }
+}

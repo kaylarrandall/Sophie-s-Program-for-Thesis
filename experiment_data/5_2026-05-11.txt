@@ -1,0 +1,16 @@
+Mon 11 May 2026, 09:14PM
+('Scientist:', '', 'Participant:', '')
+################# Phase 1 ######################
+################# INIT balls ######################
+0.0, Init stimuli, score: 0, Ball 1 color(255, 0, 0) dx-0.87 dy-0.49 speed ~1.0 at (574.8, 321.2), Ball 2 color(0, 0, 255) dx0.89 dy0.45 speed ~0.99498743710662 at (1236.4, 423.7)
+0.118, 0, Clicked: None, x=1141, y=297, Clicked: None, x=1141, y=297,  RED: x=568,  y=317,  dx=-0.87,  dy=-0.49,  clicks=0,  score=0, BLUE: x=1242,  y=426,  dx=0.89,  dy=0.45,  clicks=0,  score=0,
+4.004, 0, Clicked: RED, x=364,  y=195, Clicked: None, x=364, y=195,  Unknown Color: x=364,  y=202,  dx=-0.87,  dy=-0.49,  clicks=1,  score=1, BLUE: x=1451,  y=532,  dx=0.89,  dy=0.45,  clicks=0,  score=0,
+4.173, 1, Clicked: RED, x=364,  y=194, Clicked: None, x=364, y=194,  Unknown Color: x=355,  y=197,  dx=-0.87,  dy=-0.49,  clicks=2,  score=2, BLUE: x=1460,  y=537,  dx=0.89,  dy=0.45,  clicks=0,  score=0,
+4.287, 2, Clicked: RED, x=364,  y=194, Clicked: None, x=364, y=194,  Unknown Color: x=349,  y=194,  dx=-0.87,  dy=-0.49,  clicks=3,  score=3, BLUE: x=1466,  y=540,  dx=0.89,  dy=0.45,  clicks=0,  score=0,
+4.42, 3, Clicked: RED, x=364,  y=194, Clicked: None, x=364, y=194,  Unknown Color: x=342,  y=190,  dx=-0.87,  dy=-0.49,  clicks=4,  score=4, BLUE: x=1474,  y=543,  dx=0.89,  dy=0.45,  clicks=0,  score=0,
+4.536, 4, Clicked: RED, x=364,  y=194, Clicked: None, x=364, y=194,  Unknown Color: x=336,  y=186,  dx=-0.87,  dy=-0.49,  clicks=5,  score=5, BLUE: x=1480,  y=547,  dx=0.89,  dy=0.45,  clicks=0,  score=0,
+4.669, 5, Clicked: RED, x=364,  y=194, Clicked: None, x=364, y=194,  Unknown Color: x=329,  y=182,  dx=-0.87,  dy=-0.49,  clicks=6,  score=6, BLUE: x=1487,  y=550,  dx=0.89,  dy=0.45,  clicks=0,  score=0,
+################# INIT balls ######################
+0.0, Init stimuli, score: 6, Ball 1 color(255, 0, 0) dx-0.57 dy0.82 speed ~1.0 at (1016.7, 659.4), Ball 2 color(0, 0, 255) dx-1.00 dy0.02 speed ~1.0 at (1364.7, 675.9)
+0.13, 6, Clicked: None, x=1251, y=380, Clicked: None, x=1251, y=380,  RED: x=1012,  y=665,  dx=-0.57,  dy=0.82,  clicks=0,  score=0, BLUE: x=1356,  y=676,  dx=-1.0,  dy=0.02,  clicks=0,  score=0,
+4.162, 6, Clicked: None, x=1293, y=414, Clicked: None, x=1293, y=414,  RED: x=874,  y=864,  dx=-0.57,  dy=0.82,  clicks=0,  score=0, BLUE: x=1114,  y=680,  dx=-1.0,  dy=0.02,  clicks=0,  score=0,
